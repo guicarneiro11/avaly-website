@@ -7,7 +7,6 @@ export default function Hero() {
                 <div className="text-center">
                     <h1 className="text-4xl tracking-tight font-extrabold text-secondary sm:text-5xl md:text-6xl">
                         <span className="block">Goniometria Digital</span>
-                        <span className="block text-accent">Profissional</span>
                     </h1>
                     <p className="mt-3 max-w-md mx-auto text-base text-secondary/70 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
                         Transforme seu smartphone em uma ferramenta precisa de avaliação.

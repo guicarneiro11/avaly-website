@@ -7,9 +7,9 @@ const teamMembers = [
         image: "/public/perfil.jpeg",
         bio: "Desenvolvedor Android apaixonado por criar soluções que impactam positivamente a vida das pessoas.",
         social: {
-            github: "https://github.com/seugithub",
-            linkedin: "https://linkedin.com/in/seulinkedin",
-            email: "mailto:seu@email.com"
+            github: "https://github.com/guicarneiro11",
+            linkedin: "https://www.linkedin.com/in/guicarneiro1/",
+            email: "mailto:guicarneiro.dev@gmail.com"
         }
     }
 ];
