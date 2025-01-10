@@ -4,7 +4,7 @@ const teamMembers = [
     {
         name: "Guilherme Carneiro",
         role: "Fundador & Desenvolvedor",
-        image: "/public/perfil.jpeg",
+        image: "/perfil.png",
         bio: "Desenvolvedor Android apaixonado por criar soluções que impactam positivamente a vida das pessoas.",
         social: {
             github: "https://github.com/guicarneiro11",
