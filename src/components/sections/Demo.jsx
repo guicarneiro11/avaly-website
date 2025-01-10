@@ -208,7 +208,7 @@ const DemoSection = () => {
 
                     <div className="relative lg:sticky lg:top-24 flex justify-center items-start">
                         <VideoPlayer
-                            videoUrl="/public/AvalyVideo.mp4"
+                            videoUrl="/AvalyVideo.mp4"
                             activeFeature={activeFeature}
                         />
 
